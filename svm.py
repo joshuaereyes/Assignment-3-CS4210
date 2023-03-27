@@ -1,7 +1,7 @@
 #-------------------------------------------------------------------------
 # AUTHOR: Joshua Reyes
 # FILENAME: svm.py
-# SPECIFICATION: description of the program
+# SPECIFICATION: reads file optdigits.tra and builds multiple SVM Classifiers. Simualtes a grid search with hyperparameters which lead to the best predicition performance. 
 # FOR: CS 4210- Assignment #3
 # TIME SPENT: how long it took you to complete the assignment
 #-----------------------------------------------------------*/
